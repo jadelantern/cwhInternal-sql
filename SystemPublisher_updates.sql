@@ -1,6 +1,6 @@
 SELECT *
 FROM SystemPublishers
-
+-- 
 INSERT INTO SystemPublishers(
 Name, Country, WebSite, Notes, DateCreated, Ignore
 )
